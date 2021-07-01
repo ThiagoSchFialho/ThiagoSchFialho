@@ -6,9 +6,6 @@ but what I'm really interested in is coding in python, java, php and javascript.
 
 I've been working on a project recently with python and mysql for a car parking system.
 
-And I am thinking about a site that provides you in a personal place to write about every thing you want (like a diary).
-  It will be completely customizable to give to you a comfortable time with you and only you.
-  With a music player, cusotmizable colors, background, fonts...
 
 
 thiago.sch.fialho@gmail.com
