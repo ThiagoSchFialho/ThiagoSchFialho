@@ -1,4 +1,4 @@
-👋 Hi, I’m @ThiagoSchFialho
+👋 Hi, I’m Thiago Scheffer Fialho
 
 thiago.sch.fialho@gmail.com
 <!---
