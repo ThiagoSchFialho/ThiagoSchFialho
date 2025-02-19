@@ -17,5 +17,4 @@
 </div>
 <br/><br/><br/>
 
-<a href="https://www.flaticon.com/free-icons/github" title="github icons">Github icons created by Pixel perfect - Flaticon</a><br/>
 <a href="https://www.flaticon.com/free-icons/artificial-intelligence" title="artificial-intelligence icons">Artificial-intelligence icons created by shin_icons - Flaticon</a>
