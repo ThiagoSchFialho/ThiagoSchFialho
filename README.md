@@ -5,10 +5,7 @@
 ## Technologies and Tools
 <img loading="lazy" width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" /> <img loading="lazy" width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" /> <img loading="lazy" width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" /> <img loading="lazy" width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" /> <img loading="lazy" width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="node.js" /> <img loading="lazy" width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" /> <img loading="lazy" width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" /> <img loading="lazy" width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="firebase" /> <img loading="lazy" width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" /> <img loading="lazy" width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" /> <img loading="lazy" width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" /> <img loading="lazy" width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="django" /> <img loading="lazy" width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" /> <img loading="lazy" width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="jest" />
 <br/>
-
-## Learning
-<img loading="lazy" width=60 src="https://github.com/ThiagoSchFialho/ThiagoSchFialho/blob/main/artificial-intelligence.png" alt="artificial_intelligence" /> <img loading="lazy" width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="next.js" />
-          
+         
 <br/>
 
 <div>
